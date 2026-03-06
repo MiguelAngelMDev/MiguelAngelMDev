@@ -15,7 +15,7 @@ Frontend Developer in progress
 <tr>
 <td width="60%" valign="top">
 
-## 🚀 About Me
+##  About Me
 
 💻 Frontend developer in progress  
 
@@ -44,7 +44,7 @@ Frontend Developer in progress
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 
