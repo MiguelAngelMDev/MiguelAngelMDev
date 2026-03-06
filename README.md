@@ -12,7 +12,7 @@ Frontend Developer in progress
 ---
 
 
-## 🚀 About Me
+##  About Me
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 💻 Frontend developer in progress  
@@ -50,11 +50,13 @@ Frontend Developer in progress
 
 ##  GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelAngelMDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiguelAngelMDev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelMDev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiguelAngelMDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
