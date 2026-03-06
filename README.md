@@ -11,11 +11,11 @@ Frontend Developer in progress
 
 ---
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td>
+<td width="60%" valign="top">
 
-##  About Me
+## 🚀 About Me
 
 💻 Frontend developer in progress  
 
@@ -34,7 +34,7 @@ Frontend Developer in progress
 
 </td>
 
-<td>
+<td width="40%" align="right">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
