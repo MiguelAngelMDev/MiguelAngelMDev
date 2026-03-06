@@ -1,16 +1,98 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Miguel A. Martínez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 
-<!--
-**MiguelAngelMDev/MiguelAngelMDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+Frontend Developer in progress
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&color=38BDF8&center=true&vCenter=true&width=500&lines=Future+Software+Developer;Frontend+Developer;Learning+Every+Day;Building+Cool+Things" />
+</p>
+
+---
+
+<table>
+<tr>
+<td>
+
+##  About Me
+
+💻 Frontend developer in progress  
+
+📚 Currently studying:
+
+- HTML
+- CSS
+- Sass
+- JavaScript
+- PHP
+- SQL
+
+🎨 UI Design with **Figma**
+
+⚡ Passionate about building modern web experiences
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=sass" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=php" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</p>
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelAngelMDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelMDev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+##  GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MiguelAngelMDev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+##  Future Goals
+
+- Become a **professional web developer**
+- Build high quality web applications
+- Work on real world projects
+- Master modern frontend technologies
+
+---
+
+<p align="center">
+
+✨ Always learning. Always building.
+
+</p>
