@@ -11,11 +11,9 @@ Frontend Developer in progress
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="60%" valign="top">
 
-##  About Me
+## 🚀 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 💻 Frontend developer in progress  
 
@@ -31,16 +29,6 @@ Frontend Developer in progress
 🎨 UI Design with **Figma**
 
 ⚡ Passionate about building modern web experiences
-
-</td>
-
-<td width="40%" align="right">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-
-</td>
-</tr>
-</table>
 
 ---
 
