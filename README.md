@@ -63,8 +63,6 @@ Last Updated: Monday, March 9th, 2026, 12:47:47 AM
 
 ##  GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiguelAngelMDev&show_icons=true&theme=tokyonight&hide_border=true"/>
